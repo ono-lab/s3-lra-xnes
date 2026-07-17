@@ -1,10 +1,10 @@
-## S3-LRA-xNES: Step-size and Shape Separated Learning Rate Adaptation for Exponential Natural Evolution Strategy (GECCO2026 Best Paper Nominatation [[slide]](S3-LRA-xNES_GECCO2026.pdf))
+# S3-LRA-xNES: Step-size and Shape Separated Learning Rate Adaptation for Exponential Natural Evolution Strategy (GECCO 2026 Best Paper Nominations [[slide]](S3-LRA-xNES_GECCO2026.pdf))
 
-### About
+## About
 
 This repository contains the code for the paper
 "[S3-LRA-xNES: Step-size and Shape Separated Learning Rate Adaptation for Exponential Natural Evolution Strategy](https://dl.acm.org/doi/10.1145/3795095.3805058)"
-(Yes, OPEN ACCES !)
+(**Yes, OPEN ACCESS!**)
 by Kosuke Ujihara, Masahiro Nomura, and Isao Ono, which has been accepted to [GECCO'26 (Best Paper Nominated at ENUM Track)](https://gecco-2026.sigevo.org/HomePage).
 
 If you find this code useful in your research then please cite:
@@ -29,6 +29,6 @@ series = {GECCO '26}
 }
 ```
 
-### Details (Dependencies, Example, and so on)
+## Details (Dependencies, Examples, and so on)
 
 See the README files for our [Java](java/README.md) or [Python](python/README.md) implementations.
